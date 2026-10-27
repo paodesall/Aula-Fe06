@@ -1,0 +1,27 @@
+{
+  "versao": 3,
+  "exportadoEm": "2026-10-27T19:34:21.536Z",
+  "estado": {
+    "current": 0,
+    "completed": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "drafts": {
+      "0": "h1 {\n  color: blue;\n}\n\np {\n  color: #333333;\n}",
+      "1": "body {\n  background-color: #fef3c7;\n  color: #333333;\n}",
+      "2": "h1 {\n  text-align: center;\n  font-size: 32px;\n  color: #4338ca;\n}\n\np {\n  text-align: center;\n}",
+      "3": ".aviso {\n  padding: 16px;\n  border: 2px solid blue;\n  background-color: #e6f2ff;\n}",
+      "4": "ul {\n  display: flex;\n  list-style: none;\n  padding: 0;\n}\n\nli {\n  display: inline;\n  margin-right: 15px;\n}\n\na {\n  text-decoration: none;\n}",
+      "5": "table {\n  width: 100%;\n  border-collapse: collapse;\n}\n\nth,\ntd {\n  border: 1px solid #333;\n  padding: 8px;\n}\n\nth {\n  background-color: #bfdbfe;\n  color: grey;\n}",
+      "6": "form {\n  background-color: #eeeeee;\n  padding: 16px;\n  border-radius: 10px;\n}\n\ninput,\nselect,\ntextarea {\n  width: 100%;\n  box-sizing: border-box;\n}",
+      "7": ".card {\n  max-width: 360px;\n  margin: 20px auto;\n  background-color: white;\n  border: 1px solid #ccc;\n  border-radius: 12px;\n  box-shadow: 0 4px 12px #0f172a18;\n  padding: 16px;\n}\n\n.card h2 { color: #3730a3; margin-top: 0; }\n.card a { color: #4f46e5; }"
+    }
+  }
+}
